@@ -1,0 +1,25 @@
+[2024-07-12 23:38:20.172] [Debug] [Template Engine] => [Execute]: Execute started
+[2024-07-12 23:38:20.298] [Debug] [Microsoft.TemplateEngine.Edge.TemplateConstraintManager] => [Execute]: Found 5 constraints factories, initializing.
+[2024-07-12 23:38:20.299] [Debug] [Microsoft.TemplateEngine.Edge.TemplateConstraintManager] => [Execute]: Found 5 constraints factories, initializing.
+[2024-07-12 23:38:20.300] [Debug] [MSBuildEvaluator] => [Execute]: Output directory is: /run/media/ramumsrk/1.0TiB/Delegates-CSharp-Programming-Language-dotNET-Core/medium.com/@ravipatel.it/understanding-c-delegates-a-beginners-guide-b9ae723a3846/Understanding-CSharp-Delegates-A-Beginner-s-Guide/src/solution/understanding_csharp_delegates_a_beginner_s_guide.
+[2024-07-12 23:38:20.300] [Debug] [MSBuildEvaluator] => [Execute]: Project full path is: <null>.
+[2024-07-12 23:38:20.300] [Debug] [MSBuildEvaluator] => [Execute]: Found project files: .
+[2024-07-12 23:38:20.300] [Debug] [MSBuildEvaluator] => [Execute]: No project found.
+[2024-07-12 23:38:20.306] [Debug] [Template Engine] => [Execute] => [Template from config /usr/share/dotnet/templates/8.0.6/microsoft.dotnet.common.itemtemplates.8.0.301.nupkg/content/Solution/.template.config/template.json]: Template from config /usr/share/dotnet/templates/8.0.6/microsoft.dotnet.common.itemtemplates.8.0.301.nupkg/content/Solution/.template.config/template.json started
+[2024-07-12 23:38:20.351] [Debug] [Template Engine] => [Execute] => [Template from config /usr/share/dotnet/templates/8.0.6/microsoft.dotnet.common.itemtemplates.8.0.301.nupkg/content/Solution/.template.config/template.json]: Template from config /usr/share/dotnet/templates/8.0.6/microsoft.dotnet.common.itemtemplates.8.0.301.nupkg/content/Solution/.template.config/template.json finished, took 44 ms
+[2024-07-12 23:38:20.351] [Debug] [Template Engine] => [Execute]: Found template 'Solution File' (Microsoft.Standard.QuickStarts.Solution)
+[2024-07-12 23:38:20.356] [Debug] [Microsoft.TemplateEngine.Edge.Template.TemplateCreator] => [Execute] => [Template content generation]: Template content generation started
+[2024-07-12 23:38:20.372] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}identity' was assigned to value 'understanding_csharp_delegates_a_beginner_s_guide'.
+[2024-07-12 23:38:20.372] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_name' was assigned to value 'understanding_csharp_delegates_a_beginner_s_guide'.
+[2024-07-12 23:38:20.372] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_name' was assigned to value 'understanding_csharp_delegates_a_beginner_s_guide'.
+[2024-07-12 23:38:20.372] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_namespace' was assigned to value 'understanding_csharp_delegates_a_beginner_s_guide'.
+[2024-07-12 23:38:20.372] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_namespace' was assigned to value 'understanding_csharp_delegates_a_beginner_s_guide'.
+[2024-07-12 23:38:20.377] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}identity' was assigned to value 'understanding_csharp_delegates_a_beginner_s_guide'.
+[2024-07-12 23:38:20.377] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_name' was assigned to value 'understanding_csharp_delegates_a_beginner_s_guide'.
+[2024-07-12 23:38:20.377] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_name' was assigned to value 'understanding_csharp_delegates_a_beginner_s_guide'.
+[2024-07-12 23:38:20.377] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}safe_namespace' was assigned to value 'understanding_csharp_delegates_a_beginner_s_guide'.
+[2024-07-12 23:38:20.377] [Debug] [Template Engine] => [Execute] => [Template content generation]: [JoinMacro]: Variable 'name{-VALUE-FORMS-}lower_safe_namespace' was assigned to value 'understanding_csharp_delegates_a_beginner_s_guide'.
+[2024-07-12 23:38:20.378] [Debug] [Microsoft.TemplateEngine.Edge.Template.TemplateCreator] => [Execute] => [Template content generation]: Template content generation finished, took 22 ms
+The template "Solution File" was created successfully.
+
+[2024-07-12 23:38:20.380] [Debug] [Template Engine] => [Execute]: Execute finished, took 210 ms
